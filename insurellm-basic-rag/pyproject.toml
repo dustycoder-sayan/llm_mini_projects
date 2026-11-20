@@ -1,0 +1,10 @@
+[project]
+name = "insurellm-basic-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gradio>=6.32.0",
+    "openai>=3.57.0",
+]
